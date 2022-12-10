@@ -13,6 +13,12 @@ a {
   text-decoration: none;
 }
 
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* HEADER */
 .header-bg {
   background-color: #000;
 }
@@ -89,3 +95,5 @@ a {
     font-size: 14px;
   }
 }
+
+/* INTRODUCAO */
